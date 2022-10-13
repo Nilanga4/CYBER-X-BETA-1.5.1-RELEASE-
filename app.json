@@ -1,8 +1,8 @@
 {
   "name": "CYBER-X 1.5 BETA",
   "description": "ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ",
-  "repository": "https://github.com/darkalphaxteam/CYBER-X-BETA-1.5.1-RELEASE-",
-  "logo": "https://telegra.ph/file/0c126ae19dca72ab0cae0.jpg",
+  "repository": "https://github.com/Nilanga4/CYBER-X-BETA-1.5.1-RELEASE-/edit/master/app.json",
+  "logo": "https://telegra.ph/file/a3d1654029e1ebeaab637.jpg",
   "keywords": ["nodejs", "Bot", "WhatsApp Bot", "WhatsApp Automation", "Multi Device"],
    "env": {
           	"SUDO_NUMBER": {
